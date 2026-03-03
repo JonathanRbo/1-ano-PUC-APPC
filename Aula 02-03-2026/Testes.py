@@ -42,7 +42,7 @@ print('\nPrograma encerrado com sucesso')
 
 
 
-# Atividade para aprender mais: Como se converte graus celsius em celsius em graus firenrite
+# Atividade para aprender mais: Como se converte graus celsius em graus firenrite
 
 
 
