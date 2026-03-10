@@ -1,4 +1,4 @@
-use BD240226113;
+create database Praticar1;
 
 create table AUTORES (
     id_autor int,
@@ -36,5 +36,6 @@ ALTER TABLE LIVROS ADD editora VARCHAR(100);
 DROP TABLE EMPRESTIMOS;
 DROP TABLE LIVROS;
 DROP TABLE AUTORES;
+
 
 
