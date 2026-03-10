@@ -4,4 +4,5 @@ Repositorio de exercicios do 1° ano de Sistemas de Informacao.
 
 ## Disciplinas
 
-- **APPC** - Algoritmia e Programação de Computadores
+- **APPC** - ALGORITMOS DE PROGRAMAÇÃO, PROJETOS E COMPUTAÇÃO
+- **ExpBD** - EXPERIMENTOS PRÁTICOS DE BANCO DE DADOS
