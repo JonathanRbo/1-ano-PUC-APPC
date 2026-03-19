@@ -7,6 +7,12 @@ Repositorio de exercicios do 1° ano de Sistemas de Informacao.
 - **APPC** - Algoritmos de Programacao, Projetos e Computacao
 - **ExpBD** - Experimentos Praticos de Banco de Dados
 
+## Projetos
+
+| Projeto | Descricao | Link |
+|---------|-----------|------|
+| **Cassino (Scratch)** | Jogo de caça-niqueis (slot machine) com sistema de apostas, niveis, multiplicador de ganhos e contagem de rodadas/vitorias. | [Jogar no Scratch](COLE_O_LINK_AQUI) |
+
 ## Estrutura
 
 ```
@@ -18,6 +24,8 @@ SI-1-ano-main/
 ├── ExpBD/
 │   ├── aula-10-03-2026/   # Praticar 1 (SQL)
 │   └── aula-17-03-2026/   # Praticar 2, SQL Parte 02
+├── Projetos/
+│   └── Cassino.sb3        # Jogo de cassino (Scratch)
 ```
 
 > Padrao de nomes: `aula-DD-MM-AAAA` (formato brasileiro)
