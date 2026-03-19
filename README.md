@@ -11,7 +11,7 @@ Repositorio de exercicios do 1° ano de Sistemas de Informacao.
 
 | Projeto | Descricao | Link |
 |---------|-----------|------|
-| **Cassino (Scratch)** | Jogo de caça-niqueis (slot machine) com sistema de apostas, niveis, multiplicador de ganhos e contagem de rodadas/vitorias. | [Jogar no Scratch](COLE_O_LINK_AQUI) |
+| **Cassino (Scratch)** | Jogo de caça-niqueis (slot machine) com sistema de apostas, niveis, multiplicador de ganhos e contagem de rodadas/vitorias. | [Jogar](https://scratch.mit.edu/projects/1293177850) |
 
 ## Estrutura
 
